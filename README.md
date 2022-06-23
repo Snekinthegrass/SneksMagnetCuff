@@ -30,7 +30,7 @@ Please understand this is very much a work in progress, I am still a novice at f
    
 ## Tips 
 
-1) Ensure your printer is tuned at least decently tuned so the print in place hinge works 
+1) Ensure your printer is tuned at least decently well so the print in place hinge works 
   -It might take some force to break the hinge loose the first time off the printer, when I printed it out the first time in PLA I had to step on it with my whole body weight before it broke loose, the hinge didn't seem to mind so its probably more than strong enough. 
   
 2) Leave the magnet armature just slightly loose so it can self align to the electromagnet 
