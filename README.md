@@ -44,7 +44,7 @@ Please understand this is very much a work in progress, I am still a novice at f
 
 Feel free to ping me on the *[Kinky Maker](https://discord.gg/MmpT9xE)* Discord 
 
-##Disclaimer
+## Disclaimer
 
 Hopefully I don't need to say this but I humbly request that you do not use this with anyone who does not consent to being restrained. 
 
