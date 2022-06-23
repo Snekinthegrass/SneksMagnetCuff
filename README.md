@@ -15,7 +15,7 @@ Please understand this is very much a work in progress, I am still a novice at f
 ## Bill Of Materials
 
 1) **3D Printed Parts**
-   - As of now there is only 3D printed frame to print
+   - As of now there is only 3D printed frame to print [this one](https://github.com/Snekinthegrass/SneksMagnetCuff/tree/main/Printed%20Parts/V3)
    - In the future I would like to work on making a version that accepts inserts of different sizes to accommodate different size wrists.
 2) **60kg Electromagnetic Door Lock** : [Amazon](https://www.amazon.com/dp/B00JERC00S?ref_=cm_sw_r_cp_ud_dp_Y2GZASBTFSPPE06WMASH)
     - There are a few of these on amazon and I imagine they all come from the same alibaba/aliexpress supplier. I used the one I linked but they all seem to have the same dimensions, I'd double chek they match or alternatively be willing to make changes to the design before buying a different one. 
