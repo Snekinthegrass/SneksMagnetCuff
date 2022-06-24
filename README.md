@@ -1,7 +1,7 @@
 # SneksMagnetCuff
 
 
-The primary goals of the SMC project is developing a electric bondage cuff which lends itself particularly well to self bondage a partner who is bad at tying knots. It also will be very simple, requires very little tools, time, or maker expereince invested in order to get a quality easy to use device for your kinky needs. 
+The primary goals of the SMC project is developing a electric bondage cuff which lends itself particularly well to self bondage or a partner who is bad at tying knots. It also will be very simple, requires very little tools, time, or maker expereince invested in order to get a quality easy to use device for your kinky needs. 
 
 **Principles of design**:
 1. 3D printable in as few pieces as feasable on an Ender 3 or bigger.
