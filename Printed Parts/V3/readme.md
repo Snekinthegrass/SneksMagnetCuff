@@ -1,5 +1,5 @@
 ## Notices
-V3 has been printed. Sizing and hinges seem to be work well.
+V3 has been printed. Sizing and hinges seem to work well, however filament model was printed with was faulty and model disintegrated before hardware could be attached.
 
 ## Future iteration plans
 
@@ -9,9 +9,9 @@ V3 has been printed. Sizing and hinges seem to be work well.
 
 ## Printing Notes
 
-    - Recommend at wall thickness of at least 1.6mm 
+    - Recommend a wall thickness of at least 1.6mm 
     - Infill: 20% gyroid
-    - Orientation: On the models side text down. 
+    - Orientation: On the models side, text down. 
 
 
 
